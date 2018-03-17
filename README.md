@@ -1,1 +1,4 @@
-- COMP767
+- COMP767 Assignments
+  - Planning and Learning: DynaQ 
+  - Function Approximation: LSTD(lambda)
+  - Policy Gradient

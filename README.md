@@ -1,4 +1,4 @@
 - COMP767 Assignments
-  - Planning and Learning: DynaQ 
-  - Function Approximation: LSTD(lambda)
+  - Planning and Learning: [DynaQ](https://github.com/kkhetarpal/COMP767/blob/master/PlanningAndLearning/Dyna_Q.ipynb) 
+  - Function Approximation: [LSTD(lambda)](https://github.com/kkhetarpal/COMP767/blob/master/FunctionApproximation/LSTDlambda.ipynb)
   - Policy Gradient
